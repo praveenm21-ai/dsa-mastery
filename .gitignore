@@ -1,0 +1,19 @@
+# Build outputs
+/out/
+/bin/
+/target/
+/production/
+
+# IntelliJ project files
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
+/out/
+/bin/
+.idea/
+*.iml
